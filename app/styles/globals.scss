@@ -87,6 +87,7 @@ body {
   height: var(--full-height);
   width: 100vw;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   user-select: none;
